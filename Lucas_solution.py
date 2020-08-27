@@ -1,5 +1,5 @@
 """
-Exercício proposto no site leetcode: https://leetcode.com/problems/add-two-numbers/
+Exercício proposto no site leetcode:
 
 link útil para "linked list": https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm
 
