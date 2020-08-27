@@ -1,4 +1,4 @@
-##Leetcode project
+## Leetcode project
 
 Resolução do desafio 2 proposto pelo site leetcode.
 O exercício consiste em criar uma classe que manipule objetos do tipo "linked-list". A classe deve aceitar como 
@@ -21,7 +21,7 @@ class ListNode:
         self.val = val
         self.next = next_
 ~~~~
- ###links importantes:
+ ### links importantes:
  
  Leetcode: https://leetcode.com/problems/add-two-numbers/
  
